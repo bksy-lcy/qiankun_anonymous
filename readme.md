@@ -29,7 +29,7 @@ This repository contains QianKun's implementation code and experimental logs. Yo
 
 3. Download Meta-Llama-3.1-8B-Instruct model and configure the path in `src/llm_model/models/configs.py` (update the `llm_ckp_dir` parameter).
 
-4. Place the provided fine-tuned model checkpoint (`checkpoint.pth`) in the `src/llm_model/models/` directory.
+4. Place the provided fine-tuned model checkpoint (`checkpoint.pth`, https://figshare.com/s/ad6c98b73bd91a1ce869) in the `src/llm_model/models/` directory.
 
 ## Usage
 
